@@ -1,4 +1,4 @@
-body {
+body.body_suerte {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -6,36 +6,4 @@ body {
     color: #ff0;
 }
 
-header {
-    background-color: #333;
-    color: #ff0;
-    padding: 20px 0;
-    text-align: center;
-}
-
-main {
-    padding: 20px;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-a {
-    color: #ff0;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-footer {
-    background-color: #333;
-    color: #ff0;
-    text-align: center;
-    padding: 10px 0;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-}
+/* Otros estilos personalizados */
